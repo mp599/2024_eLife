@@ -1,3 +1,5 @@
+%% created by Antoine Wystrach
+
 function [MBON] = familiarity_MB (W_KC_MBON, PN_input, MB, nb_KC_firing)
 
 % use the learnt W_KC_MBON weights to output MBON activity to a given input
