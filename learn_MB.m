@@ -1,3 +1,4 @@
+%% created by Antoine Wystrach
 
 function [W_KC_MBON] = learn_MB (PN_input_learn, synaptic_plasticity, MB, nb_KC_firing)
 
